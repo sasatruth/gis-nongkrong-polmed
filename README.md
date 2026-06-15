@@ -30,9 +30,16 @@ tests/
 
 Tambahkan screenshot halaman:
 - Homepage
-- Daftar Tempat
+  ![Homepage](Screenshot%20Tampilan%20Web/IMG-20260610-WA0005.jpg)
 - Detail Tempat
+  ![Detail Tempat](Screenshot%20Tampilan%20Web/IMG-20260610-WA0006.jpg)
 - Peta
+  ![Peta](Screenshot%20Tampilan%20Web/IMG-20260610-WA0003.jpg)
+  ![Peta](Screenshot%20Tampilan%20Web/IMG-20260610-WA0004.jpg)
+- Tambah Tempat
+  ![Tambah Tempat](Screenshot%20Tampilan%20Web/IMG-20260610-WA0009.jpg)
+- Dashboard Admin
+  ![Dashboard Admin](Screenshot%20Tampilan%20Web/IMG-20260610-WA0008.jpg)
 
 ## Author
 
